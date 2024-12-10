@@ -5,6 +5,8 @@ app_description = "Simple & Open Source Splitwise Alternative"
 app_email = "buildwithhussain@gmail.com"
 app_license = "agpl-3.0"
 
+export_python_type_annotations = True
+
 # Apps
 # ------------------
 
